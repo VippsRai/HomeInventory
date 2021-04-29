@@ -46,7 +46,7 @@ Click Cancel.
 
 
 <br>
-<img src="Screenshots/IMG03.jpg">
+<img src="Screenshots/IMG03.JPG">
 <br>
 A primary task of the home inventory manager is to add, edit, save and delete inventory items. To add
 an item, you click the Add button in the toolbar. You then enter the necessary information and click the
@@ -56,7 +56,7 @@ editing features.
 Navigate to one of the existing items in the sample file (use the Previous or Next buttons or try a
 search). I moved to Toby, my ever faithful dog:
 <br>
-<img src="Screenshots/IMG04.jpg">
+<img src="Screenshots/IMG04.JPG">
 <br>
 We’ll delete this item, then rebuild it to demonstrate how to enter information. Click the Delete
 button – choose Yes when asked if you really want Toby to go away. The display will show the
